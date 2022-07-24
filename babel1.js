@@ -31,7 +31,7 @@ const First = (props) =>{
 const App = () => {
   return(
      <span>
-         <First src='img/memeboy.jpg'
+         <First src='img/memeboys.jpg'
          title='Meme Boys – S01 (2022) Tamil Web Series HD 720p Watch Online'  
          href='http://vidmx.xyz/embed-gl3bl60cvcyb.html'
      
@@ -64,7 +64,7 @@ const App = () => {
          title='The Terminal List – S01 (2022) Tamil Dubbed Series HD 720p Watch Online'  
          href='http://vidmx.xyz/embed-cu22j18af2rb.html'
      
-          /><First src='img/.jpg'
+          /><First src='img/suzhal.jpg'
          title='Suzhal: The Vortex – S01 (2022) Tamil Series HD 720p Watch Online'  
          href='http://vidmx.xyz/embed-flkzevmu2wb0.html'
      
