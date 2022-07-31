@@ -33,40 +33,40 @@ const App = () => {
      <span>
          <First src='img/memeboys.jpg'
          title='Meme Boys – S01 (2022) Tamil Web Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-gl3bl60cvcyb.html'
+         href='https://dulink.in/brAb'
      
           />
           <First src='img/indianpredator.jpg'
          title='Indian Predator – The Butcher of Delhi – S01 – E01-03 (2022) Tamil Dubbed Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-pj5wmqy6x5cb.html'
+         href='https://dulink.in/ePA'
      
           /><First src='img/shoorveer.jpg'
          title='Shoorveer – S01 (2022) Tamil Dubbed Series HQ HDRip 720p Watch Online'  
-         href='http://vidmx.xyz/embed-wqn3up7677md.html'
+         href='https://dulink.in/IPeh'
      
           /><First src='img/residentevil.jpg'
          title='Resident Evil – S01 (2022) Tamil Dubbed Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-nhl852dwhhc0.html'
+         href='https://dulink.in/1gTEY'
      
           /><First src='img/maaneellatank.jpg'
          title='Maa Neella Tank – S01 (2022) Tamil Web Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-ykcbic5rgob2.html'
+         href='https://dulink.in/5l6Q'
      
           /><First src='img/guiltyminds.jpg'
          title='Guilty Minds – S01 (2022) Tamil Dubbed Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-rare4z89ujp8.html'
+         href='https://dulink.in/MUky'
      
           /><First src='img/anyastutorial.jpg'
          title='Anyas Tutorial – S01 – E01-07 (2022) Tamil Web Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-cfg4il6vnpxx.html'
+         href='https://dulink.in/wfEev'
      
           /><First src='img/theterminallist.jpg'
          title='The Terminal List – S01 (2022) Tamil Dubbed Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-cu22j18af2rb.html'
+         href='https://dulink.in/WgFy'
      
           /><First src='img/suzhal.jpg'
          title='Suzhal: The Vortex – S01 (2022) Tamil Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-flkzevmu2wb0.html'
+         href='https://dulink.in/yohka'
      
           />
 
